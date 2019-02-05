@@ -1,2 +1,2 @@
 # Malik-Sowell-Group-7
-Creating software that compares prices of items from various grocery stores
+Malik Sowell, Redghy Jean, Kevin Campbell, Stephen Gilbert, Yuxuan Yuan
